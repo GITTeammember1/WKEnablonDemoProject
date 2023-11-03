@@ -2,3 +2,4 @@
 *.class
 Day*
 tobeIgnored/test1.txt
+tobeIgnored/*.jar
