@@ -12,3 +12,4 @@ worked on CR2, all sentences start with small letters.
 Adding a line after remote Repo configuration locally.
 Adding a line remotely by gitteammember1
 Working locally and added a line to display conflicts.
+Team member added 1 more line to check conflicts with remote.
