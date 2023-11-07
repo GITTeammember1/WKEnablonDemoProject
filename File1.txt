@@ -14,3 +14,4 @@ Adding a line remotely by gitteammember1
 Working locally and added a line to display conflicts.
 Team member added 1 more line to check conflicts with remote.
 Adding 1 line remotely by team member to have conflicts for pull rebase demo.
+Adding 1 line locally to have conflicts for pull rebase demo.
