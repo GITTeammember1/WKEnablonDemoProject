@@ -11,3 +11,4 @@ working on a CR... half way done....
 worked on CR2, all sentences start with small letters.
 Adding a line after remote Repo configuration locally.
 Adding a line remotely by gitteammember1
+Working locally and added a line to display conflicts.
