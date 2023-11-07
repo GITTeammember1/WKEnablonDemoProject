@@ -1,10 +1,12 @@
 Welcome - to GIT Session!*******
 Hello - World!!!********
-Day -1: Basics of GIT. Timings are 9:30 AM to 1:00 PM.
-Day - 2: BRanching.Timings are 9:30 AM to 1:00 PM.
+day 1: Basics of GIT. Timings are 9:30 AM to 1:00 PM.
+day 2: BRanching.Timings are 9:30 AM to 1:00 PM.
 Line- 1 added at 10:27 AM on Day2.
 Line- 2 added at 10:29 AM on Day2.
-Bug123 - (){
+Bug123 (){
 //do something here to fix the bug.
 }
-Working - on a CR... half way done.... 
+working on a CR... half way done.... 
+worked on CR2, all sentences start with small letters.
+
